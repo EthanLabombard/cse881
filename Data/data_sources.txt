@@ -1,0 +1,4 @@
+1930-2022 World Cup Data: https://en.wikipedia.org/wiki/FIFA_World_Cup
+World GDP: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+World Population: https://data.worldbank.org/indicator/SP.POP.TOTL
+FIFA Rankings: https://www.kaggle.com/datasets/cashncarry/fifaworldranking
