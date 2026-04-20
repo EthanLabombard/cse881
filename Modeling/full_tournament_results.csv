@@ -1,105 +1,105 @@
 stage,group,home_team,away_team,home_score,away_score
 Group,Group A,mexico,south africa,1,0
-Group,Group A,south korea,czechia,1,1
+Group,Group A,south korea,czechia,2,2
 Group,Group A,czechia,south africa,4,1
-Group,Group A,mexico,south korea,0,2
-Group,Group A,czechia,mexico,1,1
-Group,Group A,south africa,south korea,2,2
-Group,Group B,canada,bosnia & herzegovina,1,0
-Group,Group B,qatar,switzerland,1,2
-Group,Group B,switzerland,bosnia & herzegovina,2,1
+Group,Group A,mexico,south korea,1,4
+Group,Group A,czechia,mexico,0,2
+Group,Group A,south africa,south korea,1,0
+Group,Group B,canada,bosnia & herzegovina,0,1
+Group,Group B,qatar,switzerland,1,0
+Group,Group B,switzerland,bosnia & herzegovina,1,1
 Group,Group B,canada,qatar,2,0
-Group,Group B,switzerland,canada,2,3
-Group,Group B,bosnia & herzegovina,qatar,1,0
-Group,Group C,brazil,morocco,4,1
-Group,Group C,haiti,scotland,1,1
+Group,Group B,switzerland,canada,1,2
+Group,Group B,bosnia & herzegovina,qatar,0,1
+Group,Group C,brazil,morocco,1,2
+Group,Group C,haiti,scotland,1,0
 Group,Group C,scotland,morocco,1,0
-Group,Group C,brazil,haiti,0,2
-Group,Group C,scotland,brazil,0,2
-Group,Group C,morocco,haiti,2,5
-Group,Group D,usa,paraguay,1,0
+Group,Group C,brazil,haiti,0,0
+Group,Group C,scotland,brazil,1,1
+Group,Group C,morocco,haiti,0,1
+Group,Group D,usa,paraguay,0,0
 Group,Group D,australia,türkiye,2,2
-Group,Group D,usa,australia,1,4
-Group,Group D,türkiye,paraguay,1,1
+Group,Group D,usa,australia,2,0
+Group,Group D,türkiye,paraguay,0,2
 Group,Group D,türkiye,usa,0,0
-Group,Group D,paraguay,australia,1,0
-Group,Group E,germany,curaçao,0,1
-Group,Group E,ivory coast,ecuador,0,1
-Group,Group E,germany,ivory coast,2,3
-Group,Group E,ecuador,curaçao,1,1
-Group,Group E,curaçao,ivory coast,1,3
-Group,Group E,ecuador,germany,3,0
-Group,Group F,netherlands,japan,1,1
+Group,Group D,paraguay,australia,1,5
+Group,Group E,germany,curaçao,1,0
+Group,Group E,ivory coast,ecuador,0,2
+Group,Group E,germany,ivory coast,1,0
+Group,Group E,ecuador,curaçao,2,2
+Group,Group E,curaçao,ivory coast,0,2
+Group,Group E,ecuador,germany,1,1
+Group,Group F,netherlands,japan,1,0
 Group,Group F,sweden,tunisia,1,1
-Group,Group F,netherlands,sweden,0,1
-Group,Group F,tunisia,japan,3,0
-Group,Group F,japan,sweden,1,0
-Group,Group F,tunisia,netherlands,0,0
-Group,Group G,belgium,egypt,3,0
-Group,Group G,iran,new zealand,1,1
-Group,Group G,belgium,iran,1,2
-Group,Group G,new zealand,egypt,0,1
-Group,Group G,egypt,iran,1,1
-Group,Group G,new zealand,belgium,1,2
-Group,Group H,spain,cape verde,0,3
-Group,Group H,saudi arabia,uruguay,1,0
-Group,Group H,spain,saudi arabia,1,0
-Group,Group H,uruguay,cape verde,0,2
-Group,Group H,cape verde,saudi arabia,2,1
-Group,Group H,uruguay,spain,1,1
-Group,Group I,france,senegal,1,3
+Group,Group F,netherlands,sweden,2,1
+Group,Group F,tunisia,japan,0,2
+Group,Group F,japan,sweden,0,0
+Group,Group F,tunisia,netherlands,1,1
+Group,Group G,belgium,egypt,0,0
+Group,Group G,iran,new zealand,0,2
+Group,Group G,belgium,iran,0,1
+Group,Group G,new zealand,egypt,1,1
+Group,Group G,egypt,iran,3,0
+Group,Group G,new zealand,belgium,0,1
+Group,Group H,spain,cape verde,1,0
+Group,Group H,saudi arabia,uruguay,1,2
+Group,Group H,spain,saudi arabia,0,2
+Group,Group H,uruguay,cape verde,1,2
+Group,Group H,cape verde,saudi arabia,1,0
+Group,Group H,uruguay,spain,1,0
+Group,Group I,france,senegal,1,0
 Group,Group I,iraq,norway,0,1
-Group,Group I,france,iraq,2,1
-Group,Group I,norway,senegal,0,0
-Group,Group I,norway,france,0,2
-Group,Group I,senegal,iraq,0,1
-Group,Group J,argentina,algeria,1,0
-Group,Group J,austria,jordan,2,1
-Group,Group J,argentina,austria,1,0
-Group,Group J,jordan,algeria,3,2
-Group,Group J,algeria,austria,1,1
-Group,Group J,jordan,argentina,2,1
+Group,Group I,france,iraq,1,1
+Group,Group I,norway,senegal,3,0
+Group,Group I,norway,france,1,0
+Group,Group I,senegal,iraq,1,1
+Group,Group J,argentina,algeria,2,0
+Group,Group J,austria,jordan,4,2
+Group,Group J,argentina,austria,1,1
+Group,Group J,jordan,algeria,2,3
+Group,Group J,algeria,austria,0,0
+Group,Group J,jordan,argentina,2,2
 Group,Group K,portugal,dr congo,4,1
-Group,Group K,uzbekistan,colombia,1,4
-Group,Group K,portugal,uzbekistan,1,1
-Group,Group K,colombia,dr congo,0,1
-Group,Group K,colombia,portugal,2,2
-Group,Group K,dr congo,uzbekistan,1,2
-Group,Group L,england,croatia,1,1
-Group,Group L,ghana,panama,2,0
-Group,Group L,england,ghana,0,0
-Group,Group L,panama,croatia,3,2
+Group,Group K,uzbekistan,colombia,1,2
+Group,Group K,portugal,uzbekistan,0,2
+Group,Group K,colombia,dr congo,1,0
+Group,Group K,colombia,portugal,0,1
+Group,Group K,dr congo,uzbekistan,2,1
+Group,Group L,england,croatia,1,2
+Group,Group L,ghana,panama,0,1
+Group,Group L,england,ghana,1,0
+Group,Group L,panama,croatia,1,2
 Group,Group L,panama,england,0,0
-Group,Group L,croatia,ghana,1,0
-R32,,south korea,switzerland,1,0
-R32,,ecuador,austria,1,0
-R32,,tunisia,brazil,1,0
-R32,,haiti,sweden,1,2
-R32,,france,curaçao,1,0
-R32,,ivory coast,senegal,1,0
-R32,,czechia,panama,1,3
-R32,,ghana,mexico,1,0
-R32,,australia,scotland,1,0
-R32,,belgium,norway,0,1
-R32,,colombia,croatia,2,0
-R32,,cape verde,argentina,2,0
-R32,,canada,uzbekistan,2,1
-R32,,jordan,spain,0,1
-R32,,portugal,usa,1,0
-R32,,paraguay,iran,3,0
-R16,,ecuador,france,0,1
-R16,,south korea,tunisia,2,1
-R16,,sweden,ivory coast,2,1
-R16,,panama,ghana,1,0
-R16,,colombia,cape verde,2,1
-R16,,australia,norway,3,0
-R16,,spain,paraguay,0,2
-R16,,canada,portugal,0,1
-Quarterfinal,,france,south korea,1,0
-Quarterfinal,,colombia,australia,3,2
-Quarterfinal,,sweden,panama,0,1
-Quarterfinal,,paraguay,portugal,0,1
-Semifinal,,france,colombia,2,1
-Semifinal,,panama,portugal,2,0
-Third Place,,colombia,portugal,0,2
-Final,,france,panama,1,0
+Group,Group L,croatia,ghana,2,1
+R32,,south korea,qatar,1,0
+R32,,germany,iran,0,1
+R32,,netherlands,scotland,2,1
+R32,,haiti,japan,1,0
+R32,,norway,canada,0,1
+R32,,ecuador,france,2,1
+R32,,mexico,jordan,1,0
+R32,,croatia,iraq,2,0
+R32,,usa,sweden,0,1
+R32,,egypt,ivory coast,1,0
+R32,,colombia,england,3,2
+R32,,uruguay,austria,3,2
+R32,,canada,uzbekistan,2,0
+R32,,argentina,cape verde,3,2
+R32,,portugal,south korea,0,1
+R32,,australia,new zealand,2,0
+R16,,iran,canada,2,1
+R16,,south korea,netherlands,2,1
+R16,,haiti,ecuador,2,1
+R16,,mexico,croatia,3,2
+R16,,colombia,uruguay,2,1
+R16,,sweden,egypt,2,0
+R16,,argentina,australia,1,0
+R16,,canada,south korea,1,2
+Quarterfinal,,iran,south korea,1,2
+Quarterfinal,,colombia,sweden,0,1
+Quarterfinal,,haiti,mexico,1,2
+Quarterfinal,,argentina,south korea,2,3
+Semifinal,,south korea,sweden,3,1
+Semifinal,,mexico,south korea,0,2
+Third Place,,sweden,mexico,1,2
+Final,,south korea,south korea,2,0
