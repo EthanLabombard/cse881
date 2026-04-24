@@ -2,3 +2,4 @@
 World GDP: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 World Population: https://data.worldbank.org/indicator/SP.POP.TOTL
 FIFA Rankings: https://www.kaggle.com/datasets/cashncarry/fifaworldranking
+Additional GDP and population data: https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2023
